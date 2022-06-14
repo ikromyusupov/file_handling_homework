@@ -12,5 +12,5 @@ def main(data:str):
             ans.append(i)
     return ans
 # Read data from file
-fayl = open('txt_file/data03.txt', 'r')
+fayl = open('txt_file/data04.txt', 'r')
 data=fayl.read()
