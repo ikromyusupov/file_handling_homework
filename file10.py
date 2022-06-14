@@ -11,5 +11,5 @@ def main(data:str):
         ans.append(len(i))
     return max(ans)
 # Read data from file
-f = open('txt_file/data10','r')
+f = open('txt_file/data10.txt','r')
 data = f.read()
