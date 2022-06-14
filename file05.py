@@ -14,5 +14,5 @@ def main(data:str):
             res[1] += 1
     return res
 # Read data from file
-fayl = open('txt_file/file05.py','r')
+fayl = open('txt_file/data05.py','r')
 data = fayl.read()
