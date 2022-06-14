@@ -11,5 +11,5 @@ def main(data:str):
         ans.append(len(i))
     return ans
 # Read data from file
-f = open('txt_file/data06','r')
+f = open('txt_file/data06.txt','r')
 data = f.read()
